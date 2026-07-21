@@ -39,7 +39,7 @@ Data is sourced from:
 * **Dataset:** Video Game Sales 2024
 * **Author:** asaniczka
 * **Platform:** Kaggle
-* **File:** `vgchartz-2024.csv`
+* **Link:** [`vgchartz-2024.csv`](https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024?resource=download)
 * **Dataset page:** Kaggle – Video Game Sales 2024
 
 The dataset contains information on over 64,000 video game releases. The data page indicates that the dataset builds upon previous versions of Video Game Sales and was collected using a web spider based on Bayne Brannen's process. The author removed the `vg_score`, `user_score`, and `total_shipped` columns as these fields largely contained missing values.
