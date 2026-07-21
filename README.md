@@ -20,7 +20,6 @@ The project simulates a business-oriented data analytics workflow, where data is
 ### 1.3. Project Objective
 The objective of the project is to build an end-to-end data processing pipeline:
 
-```text
 Raw CSV
    ↓
 MySQL Staging Layer
